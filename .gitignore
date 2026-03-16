@@ -1,0 +1,30 @@
+
+# Go binaries
+*.exe
+
+# Go build artifacts
+-build
+-cover
+
+# Go test coverage files
+*.out
+
+# VSCode settings
+.vscode/
+
+# Go modules
+**/vendor/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# IDE settings
+.idea/
+
+.env
+howitworks.md
+test.go
+flarespark
